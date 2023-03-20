@@ -1,0 +1,34 @@
+{
+  "resultCode": 0,
+  "result": {
+    "total": 2,
+    "items": [
+      {
+        "id": 252,
+        "groupId": "2b528f50-5e79-11ed-aefa-0242c0a85003",
+        "type": 1,
+        "name": "xxxx",
+        "desc": "xxxxx",
+        "tenantId": "0cc21ce8-f16c-11e9-9f12-0242ac120003",
+        "accountId": "b4ceb69f-d073-4c78-a19f-5bc84e358062",
+        "robotsNum": 0,
+        "robots": null,
+        "createdTime": 1647845486,
+        "updatedTime": 1668656021
+      },
+      {
+        "id": 1163,
+        "groupId": "a5872f3e-bf82-4c74-be04-4e4752282ca7",
+        "type": 2,
+        "name": "1234567890123456789012345678901234567890",
+        "desc": "1234567890123456789012345678901234567890123456789012345678901234567",
+        "tenantId": "0cc21ce8-f16c-11e9-9f12-0242ac120003",
+        "accountId": "b4ceb69f-d073-4c78-a19f-5bc84e358062",
+        "robotsNum": 1,
+        "robots": null,
+        "createdTime": 1668064338,
+        "updatedTime": 1668587637
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "resultCode": 0,
+  "result": {
+    "id": 1163,
+    "groupId": "",
+    "type": 2,
+    "name": "1234567890123456789012345678901234567890",
+    "desc": "1234567890123456789012345678901234567890123456789012345678901234567",
+    "tenantId": "0cc21ce8-f16c-11e9-9f12-0242ac120003",
+    "accountId": "b4ceb69f-d073-4c78-a19f-5bc84e358062",
+    "robotsNum": 1,
+    "robots": [
+      {
+        "robotId": "c0abbf04-3f0d-4afa-b0ec-02d77b718560",
+        "name": "xxxxx",
+        "online": false,
+        "version": "v13.0.0"
+      }
+    ],
+    "createdTime": 1668064338,
+    "updatedTime": 1668587637
+  }
+}

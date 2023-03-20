@@ -1,0 +1,7 @@
+origin: http://localhost:3020
+dbpath: ./db.json
+apis:
+  - /v3/robots/:id
+  - /v3/robots
+  - /v3/robot/groups/:id
+  - /v3/robot/groups
